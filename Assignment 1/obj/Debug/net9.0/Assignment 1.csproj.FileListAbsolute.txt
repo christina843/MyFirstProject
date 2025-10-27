@@ -12,3 +12,4 @@ C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\Assignment 1\obj\D
 C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\Assignment 1\obj\Debug\net9.0\Assignment 1.pdb
 C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\Assignment 1\obj\Debug\net9.0\Assignment 1.genruntimeconfig.cache
 C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\Assignment 1\obj\Debug\net9.0\ref\Assignment 1.dll
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\Assignment 1\obj\Debug\net9.0\Assignment 1.sourcelink.json
