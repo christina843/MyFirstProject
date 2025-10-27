@@ -1,0 +1,14 @@
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\bin\Debug\net9.0\UE01.exe
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\bin\Debug\net9.0\UE01.deps.json
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\bin\Debug\net9.0\UE01.runtimeconfig.json
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\bin\Debug\net9.0\UE01.dll
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\bin\Debug\net9.0\UE01.pdb
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\obj\Debug\net9.0\UE01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\obj\Debug\net9.0\UE01.AssemblyInfoInputs.cache
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\obj\Debug\net9.0\UE01.AssemblyInfo.cs
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\obj\Debug\net9.0\UE01.csproj.CoreCompileInputs.cache
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\obj\Debug\net9.0\UE01.dll
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\obj\Debug\net9.0\refint\UE01.dll
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\obj\Debug\net9.0\UE01.pdb
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\obj\Debug\net9.0\UE01.genruntimeconfig.cache
+C:\Users\ChristinaGrandl\RiderProjects\ProfessionalProgrammer\UE01\obj\Debug\net9.0\ref\UE01.dll
